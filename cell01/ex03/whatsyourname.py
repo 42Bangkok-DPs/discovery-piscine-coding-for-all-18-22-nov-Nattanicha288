@@ -1,3 +1,3 @@
-first_name = input("กรุณากรอกชื่อจริงของคุณ: ")
-last_name = input("กรุณากรอกนามสกุลของคุณ: ")
-print("ชื่อเต็มของคุณคือ:", first_name, last_name)
+first_name = input("Please enter your First name: ")
+last_name = input("Please enter your last name: ")
+print("Your name is :", first_name, last_name)
